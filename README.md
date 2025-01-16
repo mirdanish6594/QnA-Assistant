@@ -15,7 +15,7 @@ The **Q&A Assistant** is a web application that allows users to upload a file an
 
 ## Screenshots
 
-![Screenshot](https://github.com/mirdanish6594/Expense-Splitter/blob/main/src/assets/screenshot.png)
+![Screenshot](https://github.com/mirdanish6594/QnA-Assistant/blob/main/src/assets/screenshot.png)
 
 ---
 
@@ -40,8 +40,8 @@ Follow these steps to set up and run the **File Q&A Assistant** on your local ma
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/file-qa-assistant.git
-   cd file-qa-assistant
+   git clone https://github.com/mirdanish6594/QnA-Assistant.git
+   cd QnA-Assistant
    ```
 2. **Install Dependencies**:
    ```bash
@@ -127,7 +127,7 @@ git push origin feature/your-feature-name
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 - **Google Gemini API:** For providing the AI-powered question-answering capabilities.
 - **React Community:** For the amazing tools and libraries.
 - **Lucide Icons:** For the beautiful icons used in the UI.
